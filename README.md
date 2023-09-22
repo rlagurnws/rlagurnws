@@ -26,7 +26,8 @@
 <br>
 
 ## 📗 기술 스택
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70px" heigh="70px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70px" heigh="70px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="70px" heigh="70px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" width="70px" heigh="70px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="70px" heigh="70px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70px" heigh="70px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70px" heigh="70px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="70px" heigh="70px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" width="70px" heigh="70px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="70px" heigh="70px" /><br>
+<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=logo=AWS EC2&logoColor=FF9900"/><img src="https://img.shields.io/badge/AWS RDS-527FFF?style=logo=AWS EC2&logoColor=527FFF"/><img src="https://img.shields.io/badge/Amazon Cloud Watch-FF4F8B?style=logo=AWS&logoColor=FF4F8B"/> <br>
 
 ## 💻 프로젝트
 
