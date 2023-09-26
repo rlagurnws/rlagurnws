@@ -50,7 +50,7 @@
 >> 담당 업무 : 요구사항 정의서 작성, 시스템 아키텍처 설계, DB 설계
 >><br>Kafka 활용 입찰 로직, Jenkins 사용 CI/CD 자동화, 스트레스 테스트
 <br><br>
-![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white) ![SpringBoot](https://img.shields.io/badge/-Springboot-6DB33F?logo=Springboot&logoColor=white) ![SpringCloud](https://img.shields.io/badge/-SpringCloud-6DB33F) ![Mysql](https://img.shields.io/badge/-Mysql-4479A1?logo=mysql&logoColor=white)<br>
+![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white) ![SpringBoot](https://img.shields.io/badge/-Springboot-6DB33F?logo=Springboot&logoColor=white) ![SpringCloud](https://img.shields.io/badge/-SpringCloud-6DB33F) ![Mysql](https://img.shields.io/badge/-Mysql-4479A1?logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white)<br>
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![Confluent Kafka](https://img.shields.io/badge/-Confluent%20Kafka-231F20?logo=apache-kafka&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=AWS&logoColor=white)
 
 > Git : https://github.com/wooriFisa-Final-Project-F4 <br>
