@@ -9,57 +9,72 @@
 - ⚡ Fun fact: ...
 -->
 
+- [소개](#-소개)<br>
+- [기술 스택](#-기술-스택)<br>
+- [프로젝트](#-프로젝트)<br>
+- [교육 이수](#-교육-이수)<br>
+
 ## 👦 소개
 ### 안녕하세요 김혁준입니다.
-저는 클라우드 환경 구축과 백엔드 개발에 관심이 있습니다.😎<br>
-백엔드 개발을 할 땐 즐거움을 느끼고<br>
-클라우드 인프라 공부를 할 땐 짜릿함을 느낍니다.<br>
-두가지 분야를 다 잡을 수 있는 개발자가 되어보겠습니다.🐥
-
-<br>
-
-
-## ✏ 교육 이수
- <b>우리FISA</b>
-> 23.04 ~ 23.09 우리FIS에서 주관하는 Cloud Engineering 부트 캠프<br>
->> - Spring boot
->> - Mysql
->> - Network, Infra (VMware)
->> - Docker, AWS
-
-<b>KOSA JAVA 개발자 양성 과정</b>
-> 22.10 ~ 22.12 한국소프트웨어산업협회에서 주관하는 웹 풀스택 부트 캠프
->> - Servlet & JSP
->> - Spring Framework
->> - HTML5, CSS, JavaScript(jquery)
->> - OracleDB
+클라우드 엔지니어 또는 백엔드 개발자가 되고 싶습니다.😎<br>
+새로운 것을 배우고 적용할 때 짜릿함을 느낍니다.⚡<br>
+두 가지 분야를 다 잡을 수 있는 개발자가 되겠습니다.🐥
 
 <br>
 
 ## 📗 기술 스택
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70px" heigh="70px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70px" heigh="70px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="70px" heigh="70px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" width="70px" heigh="70px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="70px" heigh="70px" /><br>
-<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=logo=AWS EC2&logoColor=FF9900"/><img src="https://img.shields.io/badge/AWS RDS-527FFF?style=logo=AWS EC2&logoColor=527FFF"/><img src="https://img.shields.io/badge/Amazon Cloud Watch-FF4F8B?style=logo=AWS&logoColor=FF4F8B"/> <br>
+
+| 🛠Tech Stack                                         |                                                                                                                                                                                                                          |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🌐 **Frontend**                                     | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)                                                                                                   |
+| 🖥 **Backend**                                       | ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white) ![SpringBoot](https://img.shields.io/badge/-Springboot-6DB33F?logo=Springboot&logoColor=white) ![SpringCloud](https://img.shields.io/badge/-SpringCloud-6DB33F)                                                                                                                                                               |
+| 🚪 **Database**                                       | ![Mysql](https://img.shields.io/badge/-Mysql-4479A1?logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=Oracle&logoColor=white)                                                                                                                                        |
+| 🔄 **Middleware**                                   | ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![Confluent Kafka](https://img.shields.io/badge/-Confluent%20Kafka-231F20?logo=apache-kafka&logoColor=white)                                                                                                                                                                                                               |
+| 🚀 **DevOps**                                   | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)                                                                                                                                                                                                                                   |
+| ☁ **Amazon Web Services**                           | - **Compute:** Elastic Compute Cloud (Amazon EC2), Amazon EC2 Auto Scaling<br>- **Load Balancing:** Application Load Balancer (ALB)<br>- **Messaging:** Amazon Simple Email Service<br> - **Storage:** Amazon S3, Amazon Relational Database Service (Amazon RDS)<br> - **Networking & Content Delivery:** Amazon Route53, Amazon Certificate Manager<br> - **Monitoring & Management:** Amazon CloudWatch |
+
+
+
+<br>
+
 
 ## 💻 프로젝트
 
 ### ArteModerni
-> FISA Cloud Engineering 팀 프로젝트 <br> 
-클라우드 전자상거래 시스템 구축 - 미술품 경매
+><b>클라우드 전자상거래 시스템 구축 - 미술품 경매</b><br>
+우리FISA Cloud Engineering 팀 프로젝트 <br> 
 >> Kafka를 활용한 MSA 아키텍처 구현 <br>
 >> AWS, Docker, Jenkins, Spring Cloud, Kafka 등 사용 <br>
 >> 담당 업무 : Kafka 활용 입찰 로직, Jenkins 사용 CI/CD 자동화, 스트레스 테스트<br><br>
->> 클라우드 환경에서의 시스템 구성이나 새로운 미들웨어를 접할 수 있어서 좋았지만 EKS 등 컨테이너 오케스트레이션 도구를 사용했으면 하는 아쉬움이 남는다.
+![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white) ![SpringBoot](https://img.shields.io/badge/-Springboot-6DB33F?logo=Springboot&logoColor=white) ![SpringCloud](https://img.shields.io/badge/-SpringCloud-6DB33F) ![Mysql](https://img.shields.io/badge/-Mysql-4479A1?logo=mysql&logoColor=white)<br>
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![Confluent Kafka](https://img.shields.io/badge/-Confluent%20Kafka-231F20?logo=apache-kafka&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=AWS&logoColor=white)
 
 > Git : https://github.com/wooriFisa-Final-Project-F4 <br>
 > Blog : https://woorifisa-final-project-f4.github.io/ <br>
 
 ### Eat it
+><b>맛집 추천 및 검색 웹사이트</b> <br>
 > KOSA 팀 프로젝트
-맛집 추천 및 검색 웹사이트
->> Spring boot, mybatis 활용한 간단 CRUD <br>
+>> Spring boot, mybatis 활용한 CRUD <br>
 >> KAKAO API (지도, 로그인) 사용 <br>
 >> 담당 업무 : 전반적인 백엔드 로직, KAKAO Login<br><br>
->> 처음 개발을 접한 프로젝트여서 클린 코드, 효율적인 로직, 보안 측면에서 많은 아쉬움을 느꼈다.
-
+![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white) ![SpringBoot](https://img.shields.io/badge/-Springboot-6DB33F?logo=Springboot&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=Oracle&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 
 > Git : https://github.com/rlagurnws/kosaProject
+
+<br><br>
+
+## ✏ 교육 이수
+ <b>우리FISA</b>
+> 23.04 ~ 23.09 우리FIS에서 주관하는 Cloud Engineering 부트 캠프<br>
+>> - JAVA, JavaScript, SpringBoot
+>> - RDBMS(Oracle & MySQL)
+>> - Network, Infra(VMware)
+>> - Docker, AWS, Jenkins
+
+<b>KOSA JAVA 개발자 양성 과정</b>
+> 22.10 ~ 22.12 한국소프트웨어산업협회에서 주관하는 웹 풀스택 부트 캠프
+>> - Servlet & JSP
+>> - SpringBoot
+>> - HTML5, CSS, JavaScript(jquery)
+>> - OracleDB
